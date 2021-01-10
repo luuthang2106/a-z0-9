@@ -8,8 +8,15 @@
     "start": "next start"
   },
   "dependencies": {
+    "autoprefixer": "^10.1.0",
+    "mongoose": "^5.11.9",
     "next": "10.0.4",
+    "postcss": "^8.2.1",
     "react": "17.0.1",
-    "react-dom": "17.0.1"
+    "react-dom": "17.0.1",
+    "sass": "^1.30.0",
+    "slugify": "^1.4.6",
+    "suneditor-react": "^2.14.10",
+    "tailwindcss": "^2.0.2"
   }
 }
